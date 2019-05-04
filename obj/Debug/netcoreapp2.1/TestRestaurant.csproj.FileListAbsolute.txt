@@ -1,0 +1,14 @@
+C:\Users\icaro\source\repos\TestRestaurant\TestRestaurant\bin\Debug\netcoreapp2.1\TestRestaurant.deps.json
+C:\Users\icaro\source\repos\TestRestaurant\TestRestaurant\bin\Debug\netcoreapp2.1\TestRestaurant.runtimeconfig.json
+C:\Users\icaro\source\repos\TestRestaurant\TestRestaurant\bin\Debug\netcoreapp2.1\TestRestaurant.runtimeconfig.dev.json
+C:\Users\icaro\source\repos\TestRestaurant\TestRestaurant\bin\Debug\netcoreapp2.1\TestRestaurant.dll
+C:\Users\icaro\source\repos\TestRestaurant\TestRestaurant\bin\Debug\netcoreapp2.1\TestRestaurant.pdb
+C:\Users\icaro\source\repos\TestRestaurant\TestRestaurant\obj\Debug\netcoreapp2.1\TestRestaurant.csprojAssemblyReference.cache
+C:\Users\icaro\source\repos\TestRestaurant\TestRestaurant\obj\Debug\netcoreapp2.1\TestRestaurant.csproj.CoreCompileInputs.cache
+C:\Users\icaro\source\repos\TestRestaurant\TestRestaurant\obj\Debug\netcoreapp2.1\TestRestaurant.RazorAssemblyInfo.cache
+C:\Users\icaro\source\repos\TestRestaurant\TestRestaurant\obj\Debug\netcoreapp2.1\TestRestaurant.RazorAssemblyInfo.cs
+C:\Users\icaro\source\repos\TestRestaurant\TestRestaurant\obj\Debug\netcoreapp2.1\TestRestaurant.AssemblyInfoInputs.cache
+C:\Users\icaro\source\repos\TestRestaurant\TestRestaurant\obj\Debug\netcoreapp2.1\TestRestaurant.AssemblyInfo.cs
+C:\Users\icaro\source\repos\TestRestaurant\TestRestaurant\obj\Debug\netcoreapp2.1\TestRestaurant.RazorTargetAssemblyInfo.cache
+C:\Users\icaro\source\repos\TestRestaurant\TestRestaurant\obj\Debug\netcoreapp2.1\TestRestaurant.dll
+C:\Users\icaro\source\repos\TestRestaurant\TestRestaurant\obj\Debug\netcoreapp2.1\TestRestaurant.pdb
